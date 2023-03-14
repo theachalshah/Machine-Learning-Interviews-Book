@@ -1,1 +1,2 @@
-# Machine-Learning-Interviews-Book
+# Solutions for Machine-Learning-Interviews-Book by Chip Huyen
+
